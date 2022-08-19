@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FirebaseChatApp</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_confirm_password">Enter confirm password</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email">Enter email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="btn_login">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="ramizbek">Ramizbek</string>
+    <string name="message">Message</string>
+    <string name="btn_save">Save</string>
+</resources>
